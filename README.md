@@ -1,6 +1,6 @@
 # variable_order_fractional_laplacian
 
-Implementation of variable order fractional Laplacian technique described here (*link to VOFL document*) to compute gravitational potential.  This is joint work with Andrea Giusti, Marta D'Elia, Roberto Garappa, and Eric Darve.
+Implementation of variable order fractional Laplacian technique described here (*link to VOFL document*) to compute gravitational potential.  This is joint work with Andrea Giusti, Marta D'Elia, Roberto Garrappa, and Eric Darve.
 
 To use, save all files to the same folder and open the *run_with_defaults* script.  Adjust the gravitational field (function handle s(|x|)), cell size, mass distribution radius, and domain size or leave defaults.  Toggle options to plot K (modified gravitational field), plot I (gravitational potential), plot orbital velocity, and compare to the explicit solution (constant s only) on and off as desired.
 
